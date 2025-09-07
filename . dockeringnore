@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+.git
+*.db
+*.json
+.DS_Store
+bot.log
+response_cache.json
+bot_database.db
