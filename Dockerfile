@@ -21,7 +21,7 @@ RUN mkdir -p /app/data
 # Run the bot
 CMD ["python", "python_tg_ai_gemini.py"]
 
----
+
 
 # requirements.txt
 python-telegram-bot==20.7
@@ -32,7 +32,7 @@ gtts==2.4.0
 Pillow==10.1.0
 PyPDF2==3.0.1
 
----
+
 
 # railway.json
 {
